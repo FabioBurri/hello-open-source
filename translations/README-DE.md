@@ -77,7 +77,7 @@ Wir sammeln die Daten nicht, aber es besteht die Möglichkeit, dass andere Perso
 ## 🚶 Nächster Schritt
 
 Dieses Repo ist für die Einführung in den Open-Source-Code Beitrags Workflow.
-Nachdem Sie alle Schritte ausgeführt haben, erwarten wir, dass du weißt, wie man das Repository forkt, wie Branches funktionieren, wie man gute Pull-Requests erstellt und andere Dinge über den Beitrag zu Open-Source-Code 🥳.
+Nachdem du alle Schritte ausgeführt hast, erwarten wir, dass du weißt, wie man das Repository forkt, wie Branches funktionieren, wie man gute Pull-Requests erstellt und andere Dinge über den Beitrag zu Open-Source-Code 🥳.
 
 **👉 Höre hier nicht auf, bitte trage zu offenem Quellcode bei 🙏.**
 
