@@ -17,7 +17,7 @@ Ein Repository, in dem du Informationen zum Open Source Code Beitrags Workflow e
 - Forke dieses Repo, lese [Wie man ein Repo forkt](https://help.github.com/articles/fork-a-repo/)
 - Erstelle einen Branch mit deinem github-Benutzernamen, z.B.: `add-mazipan.js`. **Verwende niemals den Branch `Master`, um Pull Requests zu erstellen**
   lese [wie man einen Branch erstellt](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/)
-- Füge Ihre erste Datei mit dem Dateinamen `github_username.js` im Verzeichnis `people/` in diesem Branch hinzu.
+- Füge deine erste Datei mit dem Dateinamen `github_username.js` im Verzeichnis `people/` in diesem Branch hinzu.
 - Füge Code mit Ihrer Identität hinzu, z.B:
 
 ````js
@@ -77,7 +77,7 @@ Wir sammeln die Daten nicht, aber es besteht die Möglichkeit, dass andere Perso
 ## 🚶 Nächster Schritt
 
 Dieses Repo ist für die Einführung in den Open-Source-Code Beitrags Workflow.
-Nachdem Sie alle Schritte ausgeführt haben, erwarten wir, dass du weißt, wie man das Repository forkt, wie Branches funktionieren, wie man gute Pull-Requests erstellt und andere Dinge über den Beitrag zu Open-Source-Code 🥳.
+Nachdem du alle Schritte ausgeführt hast, erwarten wir, dass du weißt, wie man das Repository forkt, wie Branches funktionieren, wie man gute Pull-Requests erstellt und andere Dinge über den Beitrag zu Open-Source-Code 🥳.
 
 **👉 Höre hier nicht auf, bitte trage zu offenem Quellcode bei 🙏.**
 
